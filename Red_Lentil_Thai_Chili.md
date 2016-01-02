@@ -10,8 +10,11 @@ Add chili powder, sweet potatoes, lentils, salt and vegetable broth. Cover and b
 
 Taste for salt and seasoning, top with cilantro and lime and serve!
 
-* Olive oil (1 teaspoon to 2 tablespoons, however much you feel like using)
-* 1 large yellow onion, diced medium
+Ingredients
+------------------------
+
+- [ ] Olive oil (1 teaspoon to 2 tablespoons, however much you feel like using)
+- [ ] 1 large yellow onion, diced medium
 * 1 red bell pepper, seeded and diced medium
 * 3 cloves garlic, minced
 * 2 tablespoons chili powder
